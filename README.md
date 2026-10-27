@@ -80,7 +80,7 @@ diary-app/
 
 ### Aplikasi 2
 
-![Screenshot Aplikasi 2](assets/moods/diary_app_2_1.png)
+![Screenshot Aplikasi 2](assets/moods/diary_app_2_2.png)
 
 
 ## Kesimpulan
