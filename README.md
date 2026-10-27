@@ -76,11 +76,11 @@ diary-app/
 
 ### Aplikasi 1
 
-![Screenshot Aplikasi 1](assets/moods/Aplikasi1.png)
+![Screenshot Aplikasi 1](assets/moods/diary_app_2_1.png)
 
 ### Aplikasi 2
 
-![Screenshot Aplikasi 2](assets/moods/Aplikasi2.png)
+![Screenshot Aplikasi 2](assets/moods/diary_app_2_1.png)
 
 
 ## Kesimpulan
